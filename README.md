@@ -8,7 +8,7 @@ Teaching materials for text mining workshop.
 ## Course outline
 
 1.  Counting words
-      - Example: Bank of England
+      - Example: Federal Reserve speeches
 2.  Example 2: Sentiment analysis
       - Example: Federal Reserve minutes
 3.  Topic modelling
