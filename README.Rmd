@@ -15,6 +15,9 @@ knitr::opts_chunk$set(
 
 Teaching materials for text mining workshop.              
 
+Note that most examples require the `cbcoms` package, which is only available
+on request.
+
 ## Course outline
 
 1. Counting words
