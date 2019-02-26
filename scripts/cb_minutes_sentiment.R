@@ -4,6 +4,7 @@ library(scales)
 library(ecbutils)
 library(glue)
 library(tidytext)
+library(cbcoms)
 
 cb_sentiments <- cb_minutes %>%
   filter(type %in% c("Minutes", "Record of Policy Actions")) %>%

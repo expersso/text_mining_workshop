@@ -13,7 +13,7 @@ knitr::opts_chunk$set(
 
 # Text mining workshop
 
-Teaching materials for text mining workshop.
+Teaching materials for text mining workshop.              
 
 ## Course outline
 
